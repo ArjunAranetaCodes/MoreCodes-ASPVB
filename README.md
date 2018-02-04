@@ -73,7 +73,7 @@ Computer Programming problems and Solutions with the ASP.Net(VB) Language
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-ASPVB/blob/master/Loops/problem20.vb" target="_blank">(Recursion) Write a program that outputs the sum of numbers from 1 to n.</a>
 
 - - - -
-### [ASP.Net(VB) Programming Array problems](Loops/) <- Click to go to Array problems
+### [ASP.Net(VB) Programming Array problems](Arrays/) <- Click to go to Array problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-ASPVB/blob/master/Arrays/problem1.vb" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-ASPVB/blob/master/Arrays/problem2.vb" target="_blank">Write a program that gets the index of an element in an array.</a>
