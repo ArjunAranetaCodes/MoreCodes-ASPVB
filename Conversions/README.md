@@ -1,8 +1,17 @@
-# MoreCodes - (ASP.Net) Visual Basic Programming Problems
-This repository is for (ASP.Net) Visual Basic codes of my blog: http://more-codes.com/
+<h1 align="center">MoreCodes</h1>
+<p align="center"> 
+  <img src="/morecodescir.png"/>
+</p>
+
+<p align="center">
+Join Us on Youtube! <br/>
+<i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
+</p>
+
+#
 
 - - - -
-### (ASP.Net) Visual Basic Programming Conversion Problems
+### [ASP.Net(VB) Conversions Programming problems](../Conversions/) <- Click to go to Conversion problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-ASPVB/blob/master/Conversions/problem1.vb" target="_blank">Write a program that converts a number to string.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-ASPVB/blob/master/Conversions/problem2.vb" target="_blank">Write a program that converts a string to integer.</a>
