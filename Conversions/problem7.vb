@@ -1,4 +1,4 @@
-'Problem 7: Write a program that converts a decimal number to binary number.'
+'Problem 7: Write a program that converts a decimal number to binary number.
 Public Class WebForm1
     Inherits System.Web.UI.Page
 
